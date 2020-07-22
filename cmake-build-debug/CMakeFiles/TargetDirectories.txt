@@ -1,0 +1,3 @@
+C:/Users/kupco/Desktop/C plus plus/Cplusplus/MojeProgramyCiekawsze/ZnajdujacyNajwiekszaPareLiczbPierwszych/cmake-build-debug/CMakeFiles/ZnajdujacyNajwiekszaPareLiczbPierwszych.dir
+C:/Users/kupco/Desktop/C plus plus/Cplusplus/MojeProgramyCiekawsze/ZnajdujacyNajwiekszaPareLiczbPierwszych/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kupco/Desktop/C plus plus/Cplusplus/MojeProgramyCiekawsze/ZnajdujacyNajwiekszaPareLiczbPierwszych/cmake-build-debug/CMakeFiles/rebuild_cache.dir

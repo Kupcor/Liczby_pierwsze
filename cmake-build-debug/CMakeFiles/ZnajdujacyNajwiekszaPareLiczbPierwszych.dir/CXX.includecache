@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kupco/Desktop/C plus plus/Cplusplus/MojeProgramyCiekawsze/ZnajdujacyNajwiekszaPareLiczbPierwszych/main.cpp
+iostream
+-
+iomanip
+-
+
